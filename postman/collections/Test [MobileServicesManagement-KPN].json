@@ -1830,7 +1830,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -1877,7 +1877,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -1924,7 +1924,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -1971,7 +1971,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -2018,7 +2018,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -2065,7 +2065,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -2112,7 +2112,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -3597,7 +3597,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -3644,7 +3644,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -3691,7 +3691,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -3738,7 +3738,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -3785,7 +3785,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -3832,7 +3832,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -3879,7 +3879,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=4ee6fccc-bed7-4ca3-b15c-c77388773dfa",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -6652,7 +6652,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -6699,7 +6699,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -6746,7 +6746,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -6793,7 +6793,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -6840,7 +6840,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -6887,7 +6887,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -6934,7 +6934,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=88abf449-dc5d-4005-a27a-50e85f52834d",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -10187,7 +10187,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -10234,7 +10234,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -10281,7 +10281,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -10328,7 +10328,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -10375,7 +10375,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -10422,7 +10422,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -10469,7 +10469,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -11093,7 +11093,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -11140,7 +11140,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -11187,7 +11187,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -11234,7 +11234,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -11281,7 +11281,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -11328,7 +11328,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -11375,7 +11375,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -12488,7 +12488,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -12535,7 +12535,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -12582,7 +12582,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -12629,7 +12629,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -12676,7 +12676,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -12723,7 +12723,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -12770,7 +12770,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58&category=MOBILE",
+									"raw": "{{baseUrl}}/contracting/basket?sessionId=866f69e3-4e67-4025-bfa7-692cb36eca58",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -27122,7 +27122,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -27170,7 +27170,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -27218,7 +27218,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -27266,7 +27266,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -27314,7 +27314,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -27362,7 +27362,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -27410,7 +27410,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -28800,7 +28800,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -28848,7 +28848,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -28896,7 +28896,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -28944,7 +28944,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -28992,7 +28992,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -29040,7 +29040,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -29088,7 +29088,7 @@
 									}
 								],
 								"url": {
-									"raw": "{{baseUrl}}/hierarchy/children?includeGroups=true&includeCustomer=true",
+									"raw": "{{baseUrl}}/hierarchy/children",
 									"host": [
 										"{{baseUrl}}"
 									],
@@ -31439,7 +31439,7 @@
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "d58a1f1f-1761-4615-9814-a034ffbd418e",
+				"id": "f66f1abf-960e-4b5e-9213-0acb55161fe0",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -31449,7 +31449,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "18e9b0a5-26f6-4b0c-89d6-8fa1356e8372",
+				"id": "d7b66a16-796e-451b-a81e-d0fa5f5e3404",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -31459,19 +31459,19 @@
 	],
 	"variable": [
 		{
-			"id": "4f99268c-0b8c-4a90-9305-8fca9f24a7e2",
+			"id": "3bc97044-72bb-4b49-8797-70c4a0ac6c6a",
 			"key": "baseUrl",
 			"value": "https://api-prd.kpn.com/mobile/kpn/mobileservices",
 			"type": "string"
 		},
 		{
-			"id": "43d09652-7050-433a-be34-398e9e7b5f36",
+			"id": "3bbcd53a-d470-49e8-8fb6-7840e65361b8",
 			"key": "client_id",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "d8d5c031-2ba1-4524-acca-a0d2d3c32ce1",
+			"id": "39e41452-df70-4cb3-a0bc-40f655b7ced0",
 			"key": "client_secret",
 			"value": "",
 			"type": "string"
