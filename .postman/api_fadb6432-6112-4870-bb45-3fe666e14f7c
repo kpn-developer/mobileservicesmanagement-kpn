@@ -10,6 +10,7 @@ id = fadb6432-6112-4870-bb45-3fe666e14f7c
 [config.relations.collections]
 rootDirectory = postman/collections
 files[] = {"id":"4406147-f42973bb-f86c-4ef3-83f2-0ec2c5fe8155","path":"MobileServicesManagement-KPN.json","metaData":{}}
+files[] = {"id":"4406147-d95461c2-0d6e-43a4-8642-b1631d9ae6b8","path":"MockUp [Mobile ServicesManagement-KPN].json","metaData":{}}
 files[] = {"id":"4406147-3ada0cd0-4b15-47a7-806d-97f69363e264","path":"Test [MobileServicesManagement-KPN].json","metaData":{}}
 
 [config.relations.collections.metaData]
